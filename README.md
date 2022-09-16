@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GabrielWarner
 - I’m interested in Web Development, Video Games, and Lifting.
 - 🌱 I’m currently learning attending UW Tacoma majoring in IT.
+- Recently graduated from the University of Washignton Full-Stack Web Developer Coding Bootcamp
 
 
 <!---
